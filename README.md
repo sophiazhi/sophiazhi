@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+I'm a junior at MIT studying Computer Science (6-3) and concentrating in Linguistics. My plans for this semester include
+* Taking Software Studio (6.170) to experience full-stack development of larger-scale software.
+* Taking Computational Cognitive Science (6.804/9.66) and Computational Psycholinguistics (9.19) to explore the computational representation of intelligence. These classes also introduce me to natural language processing -- the combination of my academic interests!
 
 <!--
 **sophiazhi/sophiazhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
