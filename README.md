@@ -1,5 +1,6 @@
 ### Hi! 🌸
-I'm a junior at MIT studying Computer Science (6-3) and concentrating in Linguistics. On my github you can find
+I'm a senior at MIT studying Computer Science (6-3) and minoring in Linguistics. On my github you can find
+* Tools I developed to analyze an off-the-shelf model's predicted part-of-speech tags for CHILDES data.
 * Coursework from Software Studio (6.170)
 * CSS art, which is both a creative outlet and a way to increase my CSS proficiency
 * Projects from competitions and hackathons
