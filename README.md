@@ -1,8 +1,9 @@
 ### Hi! 🌸
-I'm a senior at MIT studying Computer Science (6-3) and minoring in Linguistics. On my github you can find
-* Tools I developed to analyze an off-the-shelf model's predicted part-of-speech tags for CHILDES data.
+I'm an M.Eng. student at MIT with a B.S. in Computer Science (6-3) and a minor in Linguistics. On my github you can find
+* My contributions to TorchMultimodal and TorchVision
+* Tools I developed to analyze an off-the-shelf model's predicted part-of-speech tags for CHILDES data
 * Coursework from Software Studio (6.170)
-* CSS art, which is both a creative outlet and a way to increase my CSS proficiency
+* CSS art, both a creative outlet and a way to increase my CSS proficiency
 * Projects from competitions and hackathons
 
 <!--
